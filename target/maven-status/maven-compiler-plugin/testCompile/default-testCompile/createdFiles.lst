@@ -1,0 +1,10 @@
+com\w2a\utilities\ExtentManager.class
+com\w2a\utilities\TestUtil.class
+com\w2a\utilities\ExcelReader.class
+com\w2a\Testcases\OpenAccountTest.class
+com\w2a\rough\ReadProperties.class
+com\w2a\Testcases\AddCustomerTest.class
+com\w2a\Base\TestBase.class
+com\w2a\Testcases\Login.class
+com\w2a\Listeners\CustomListener.class
+com\w2a\rough\TestTimestamp.class

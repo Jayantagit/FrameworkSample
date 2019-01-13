@@ -1,0 +1,5 @@
+10:49:20,003 DEBUG rootLogger:42 - Config File Loaded
+10:49:20,007 DEBUG rootLogger:59 - OR File Loaded
+10:50:00,970 DEBUG rootLogger:13 - Login Started
+10:50:03,374 DEBUG rootLogger:17 - Login succcessfull
+10:50:04,268 DEBUG rootLogger:91 - Driver Closed
